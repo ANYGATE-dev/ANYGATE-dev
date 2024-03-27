@@ -9,7 +9,6 @@ Starting 2016, my journey began with HTML and CSS. It was fun to create small st
 
 * ❓ Prefering to remain anonymous on the web
 * 🧠  Currently learning SvelteKit
-* 🌎 Visit my website *[anygate.xyz](http://www.anygate.xyz)* **(Currently under construction)**
 * 🖥️ MacOS, Windows 11 & Linux (Kali Linux, Ubuntu, FreeBSD)
 
 ### Skills
