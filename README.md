@@ -7,9 +7,7 @@ Hello fellow devs, I'm Any, an open-source and closed-source developer mainly cr
 
 Starting 2016, my journey began with HTML and CSS. It was fun to create small static pages, but I wanted to do more. So I began to learn JavaScript, but quickly found the limitations of the browser. I switched to Node.js and built my first small tools. Many years and languages later, I'm now here with a huge set of skils ready to be used. Creating pen-testing tools, selling plugins & applications but standing behind the great world of open-source software.
 
-* ❓ Prefering to remain anonymous on the web
-* 🧠  Currently learning SvelteKit
-* 🖥️ MacOS, Windows 11 & Linux (Kali Linux, Ubuntu, FreeBSD)
+🖥️ MacOS, Windows 11 & Linux (Kali Linux, Ubuntu, FreeBSD)
 
 ### Skills
 
