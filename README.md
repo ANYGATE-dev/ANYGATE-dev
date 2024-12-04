@@ -1,7 +1,7 @@
 👨‍💻 About Me 
 ---
-Open-source and propitary software engineer mainly creating web & desktop applications.\n
-Pen-testing and infiltrating Windows systems and Network infrastructure.\n
+Open-source and propitary software engineer mainly creating web & desktop applications. <br>
+Pen-testing and infiltrating Windows systems and Network infrastructure. <br>
 Boating entuhisast 🚤
 
 #### Full-Stack Dev & Windows Pen-Tester since 2016
