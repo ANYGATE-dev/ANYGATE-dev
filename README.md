@@ -1,15 +1,17 @@
-Greetings! 👋
+👨‍💻 About Me 
 ---
-Hello fellow devs, I'm Any, an open-source and closed-source developer mainly creating web & desktop applications. However my true passion is pen-testing and infiltrating windows systems and Network infrastructure.
+Open-source and propitary software engineer mainly creating web & desktop applications.
+Pen-testing and infiltrating Windows systems and Network infrastructure.
+Boating entuhisast 🚤
 
 #### Full-Stack Dev & Windows Pen-Tester since 2016
 ------------------
 
-Starting 2016, my journey began with HTML and CSS. It was fun to create small static pages, but I wanted to do more. So I began to learn JavaScript, but quickly found the limitations of the browser. I switched to Node.js and built my first small tools. Many years and languages later, I'm now here with a huge set of skils ready to be used. Creating pen-testing tools, selling plugins & applications but standing behind the great world of open-source software.
+Creating pen-testing tools, bundles, open-source tools & selling application-specific software
 
 🖥️ MacOS, Windows 11 & Linux (Kali Linux, Ubuntu, FreeBSD)
 
-### Skills
+### Language set
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -33,7 +35,7 @@ Starting 2016, my journey began with HTML and CSS. It was fun to create small st
 ### Contact
 ---
 ###### Via E-Mail: (Legal, Licensing, Application requests, Collaborations)
-[info@anygate.xyz](mailto:info@anygate.xyz)
+[info@octabyte.net](mailto:info@octabyte.net)
 
 ###### Via Discord: (Application requests, Collaborations)
 [ANYGATE on Discord](https://discordapp.com/users/656439581411115020)
